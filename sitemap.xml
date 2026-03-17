@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://www.igoumenitsastay.gr/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.igoumenitsastay.gr/places-to-stay</loc>
+    <priority>0.95</priority>
+  </url>
+
+  <url>
+    <loc>https://www.igoumenitsastay.gr/places-to-stay/where-to-stay-in-igoumenitsa</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://www.igoumenitsastay.gr/places-to-stay/where-to-stay-in-igoumenitsa/olea-apartment</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://www.igoumenitsastay.gr/places-to-stay/where-to-stay-in-igoumenitsa/yin-yang-loft</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://www.igoumenitsastay.gr/places-to-stay/where-to-stay-in-igoumenitsa/ikia-fotinia</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://www.igoumenitsastay.gr/home/where-to-stay-in-sivota</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://www.igoumenitsastay.gr/home/where-to-stay-in-sivota/bellezza-sivota-apartment</loc>
+    <priority>0.85</priority>
+  </url>
+
+</urlset>
